@@ -1,5 +1,5 @@
 ## Description
-Custom chatGTPT interface
+Custom chatGPT interface. Client: React + TypesScript + Tailwind, Back: Node.js
 
 ## Environment Variables Setup Guide
 1) Create a .env.local file in the server root directory of the project if it doesn't already exist.
