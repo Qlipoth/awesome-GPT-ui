@@ -24,7 +24,3 @@
     OPENAI_API_KEY=your-openai-api-key
 
 3) Save the .env.local file.
-
-4) Your private settings will now be stored locally on your machine and will not be pushed to the Git repository. Ensure that the .env.local file is added to your .gitignore file to prevent it from being included in your Git repository.
-
-5) If other developers will be working on the project, provide them with this guide and ask them to create their own .env.local file with the necessary settings.
